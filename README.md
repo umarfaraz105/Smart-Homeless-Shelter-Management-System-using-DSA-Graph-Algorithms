@@ -49,14 +49,14 @@ The **Smart Homeless Shelter Management System** is designed to:
 
 ## 🏗️ System Architecture
 
-City Map -> Graph
-People -> Hash Table
-Emergencies-> Max Heap
-Shelters -> Vector + Merge Sort
-Search -> Binary Search
-Paths -> Dijkstra
-Traversal -> BFS / DFS
-Text Match -> Rabin-Karp
+- City Map → Graph  
+- People → Hash Table  
+- Emergencies → Max Heap  
+- Shelters → Vector + Merge Sort  
+- Search → Binary Search  
+- Paths → Dijkstra  
+- Traversal → BFS / DFS  
+- Text Match → Rabin-Karp  
 
 
 ---
@@ -69,16 +69,6 @@ Text Match -> Rabin-Karp
 - **Platform:** Windows / Linux
 
 ---
-
-## ⚙️ How to Compile and Run
-
-```bash
-g++ main.cpp -o shelter
-./shelter
-
-
----
-
 ## 📊 Subsystems
 
 - Registration & Data Management  
@@ -108,3 +98,11 @@ This project is made for:
 - **Project Type:** Academic DAA Project  
 
 ---
+
+## ⚙️ How to Compile and Run
+
+```bash
+g++ main.cpp -o shelter
+./shelter
+
+
