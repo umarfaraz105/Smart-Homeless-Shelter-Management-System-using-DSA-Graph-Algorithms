@@ -1,0 +1,2 @@
+# Smart-Homeless-Shelter-Management-System-using-DSA-Graph-Algorithms
+A menu-driven C++ application that manages homeless people, shelters, emergency cases, and city network traversal using advanced Data Structures and Algorithms like Graphs, Dijkstra, BFS, DFS, Hashing, Heap, Merge Sort, Binary Search, and Rabin-Karp.  This project is developed as part of the Design and Analysis of Algorithms (DAA) academic project.
